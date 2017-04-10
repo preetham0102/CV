@@ -1,9 +1,10 @@
-
-
 #+title:  CV
-#+Email: nikkypreetham@gmail.com
-#+contact_no: 8333993030
 
+* Contact
+#+BEGIN_SRC
+Email: nikkypreetham@gmail.com
+contact_no: 8333993030
+#+END_SRC
 
 
 
