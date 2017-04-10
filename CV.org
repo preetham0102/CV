@@ -8,7 +8,7 @@ contact_no: 8333993030
 
 
 
-*Education
+* Education
 
 #+name: Education
 #+BEGIN_SRC
@@ -17,9 +17,9 @@ contact_no: 8333993030
 School : NARAYANA CO School,Hyderabad,CGPA - 9.5
 #+END_SRC
 
-*Technical skills
+* Technical skills
 
-#+name : Technical skills
+
 #+BEGIN_SRC
 languages : GNU,C,C++,PYTHON,Javascript,racket
 #+END_SRC
