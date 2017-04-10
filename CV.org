@@ -1,0 +1,24 @@
+
+
+#+title:  CV
+#+Email: nikkypreetham@gmail.com
+#+contact_no: 8333993030
+
+
+
+
+*Education
+
+#+name: Education
+#+BEGIN_SRC
+2016-present : BTech in Computer Science,International Institute of Information Technology,Hyderabad
+2014-2016 : 11th and 12th at NARAYANA JUNIOR COLLEGE,Hyderabad,percentage- 96.4 %
+School : NARAYANA CO School,Hyderabad,CGPA - 9.5
+#+END_SRC
+
+*Technical skills
+
+#+name : Technical skills
+#+BEGIN_SRC
+languages : GNU,C,C++,PYTHON,Javascript,racket
+#+END_SRC
